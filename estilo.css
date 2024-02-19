@@ -1,0 +1,21 @@
+h1{
+color: rgb(37, 35, 185); 
+text-align: center;
+}
+body{background-color: rgb(123, 170, 154);}
+/*estilo para cada imagem*/
+
+image-container{
+    display: flex; /*use flexbox para alinhar as imagem */
+    justify-content: center;/*centralize horizontal*/ 
+
+}
+/*estilos para cada imagem*/
+
+.reciclagem{ 
+    display: flex; 
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+}
